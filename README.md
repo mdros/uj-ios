@@ -18,3 +18,5 @@ This repository contains various iOS projects completed as part of university co
 
 - **oauth** - Assignment 5
     - This project shows a simple authentication using custom backend for secure user login
+
+- **payments** - Assignment 6 & 7
